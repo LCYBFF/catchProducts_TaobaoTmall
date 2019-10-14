@@ -12,22 +12,22 @@ JS抓取淘宝和天猫店铺的商品信息（需在Tampermonkey上使用）
 # 操作步骤
 1. 打开店铺所有宝贝页，点击页面左侧中间数据抓取按钮即可
 
-![](./images/01.jpg)
+![](./images/01.JPG)
 
 2. 抓取提示
   - 成功
   
-![](./images/02.jpg)
-![](./images/04.jpg)
+![](./images/02.JPG)
+![](./images/04.JPG)
   
   - 失败
   
-![](./images/04.jpg)
-![](./images/05.jpg)
+![](./images/03.JPG)
+![](./images/05.JPG)
 
-3. 抓取成功可点击下载文件data.json
+3. 抓取成功可点击确认下载文件data.json
 
-![](./images/06.jpg)
+![](./images/06.JPG)
 
 # 抓取信息说明
 1. 结构一览
