@@ -44,24 +44,28 @@ __如有大佬路过，欢迎提出建议或指正。__
 
 ```json
   {
-    "info":[{
-      "shopname":"",
-      "type":"",
-      "pageNo":"",
-      "pageAll":"",
-      "orderType":"",
-      "lowPrice":"",
-      "highPrice":"",
-      "keyword":"",
-      "vip":"",
-    }],  
-    "data":[{
-      "id":"",
-      "proid":"",
-      "title":"",
-      "img":"",
-      "pric":"",
-    }]
+    "info": [
+      {
+        "shopname": "",
+        "type": "",
+        "pageNo": "",
+        "pageAll": "",
+        "orderType": "",
+        "lowPrice": "",
+        "highPrice": "",
+        "keyword": "",
+        "vip": "",
+      }
+    ],  
+    "data": [
+      {
+        "id": "",
+        "proid": "",
+        "title": "",
+        "img": "",
+        "pric": "",
+      }
+    ]
   }
 ```
 
